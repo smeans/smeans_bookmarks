@@ -1,0 +1,15 @@
+{
+  "name": "smeans_bookmarks",
+  "version": "1.0.0",
+  "description": "AJAX bookmark example with node.js and Express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node tests/bookmarksUnitTests.js"
+  },
+  "author": "W. Scott Means",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth-connect": "^1.0.0",
+    "express": "^4.14.0"
+  }
+}
